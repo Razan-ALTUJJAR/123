@@ -150,7 +150,7 @@ sections:
     #  latitude: "37.4275"
     #  longitude: "-122.1697"
     #directions: Enter Building 1 and take the stairs to Office #200 on Floor 2
-    email: razantejjar1@gmail.Com
+    email: razantejjar1@gmail.com
     form:
       formspree:
         id: null
