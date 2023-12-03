@@ -14,7 +14,7 @@ authors: []
 date: "2030-06-01T13:00:00Z"
 date_end: "2030-06-01T15:00:00Z"
 event: Hugo Blox Builder Conference
-event_url: https://example.org
+event_url: https://razan.org
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'

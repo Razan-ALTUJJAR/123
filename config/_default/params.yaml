@@ -6,11 +6,15 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  mode: light
+  color: red
+  theme_day: true
+  theme_night: rose
   font: minimal
   font_size: L
-
+  theme_light: true
+  
+  
 # SEO
 
 marketing:
