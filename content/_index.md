@@ -38,7 +38,7 @@ sections:
       text_color_light: true
 - block: about.biography
   content:
-    title: Biography
+    title: ""
     username: admin
   id: about
 - block: skills
@@ -50,68 +50,47 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - certificate_url: https://www.coursera.org
+    - certificate_url: https://www.coursera.org/account/accomplishments/certificate/3BAEVD4FLP4R?irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=357605&utm_content=b2c&irclickid=UvFxGSVfFxyIWbqWnxRHNSLaUkFSTo2JS1oVzE0
       date_end: ""
-      date_start: "2021-01-25"
+      date_start: "2023-09-02"
       description: ""
       icon: coursera
       organization: Coursera
       organization_url: https://www.coursera.org
       title: Neural Networks and Deep Learning
       url: ""
-    - certificate_url: https://www.edx.org
+    - certificate_url: https://www.coursera.org/account/accomplishments/certificate/3UYJN43AEGKG
       date_end: ""
-      date_start: "2021-01-01"
-      description: Formulated informed blockchain models, hypotheses, and use cases.
-      icon: edx
-      organization: edX
-      organization_url: https://www.edx.org
-      title: Blockchain Fundamentals
+      date_start: "2023-09-01"
+      icon: coursera
+      organization_url: https://www.coursera.org/account/accomplishments/certificate/3UYJN43AEGKG
+      title: Structuring Machine Learning Projects
       url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    - certificate_url: https://www.datacamp.com
-      date_end: "2020-12-21"
-      date_start: "2020-07-01"
+    - certificate_url: https://www.credly.com/badges/7dc8dfe3-f568-497d-be1a-f14767a1a21b
+      date_end: ""
+      date_start: "2022-10-25"
       description: ""
-      icon: datacamp
-      organization: DataCamp
-      organization_url: https://www.datacamp.com
-      title: Object-Oriented Programming in R
+      icon: sas
+      title: "SAS Programming Essentials"
       url: ""
-    subtitle: null
-    title: Accomplish&shy;ments
+    - certificate_url: https://www.credly.com/badges/fbb56d28-c206-4cea-ae48-ce7420be1a82
+      date_end: ""
+      date_start: "2023-01-11"
+      description: ""
+      icon: sas
+      title: "SAS data Manipulation Techniques"
+      url: ""
   design:
     columns: "2"
-- block: collection
-  content:
-    count: 5
-    filters:
-      author: ""
-      category: ""
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-      folders:
-      - post
-      publication_type: ""
-      tag: ""
-    offset: 0
-    order: desc
-    subtitle: ""
-    text: ""
-    title: Recent Posts
-  design:
-    columns: "2"
-    view: compact
-  id: posts
 - block: portfolio
   content:
     buttons:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Séries tempoelles
+      tag: Séries tempoelles
+    - name: Analyse et science des données
+      tag: Analyse et science des données
     default_button_index: 0
     filters:
       folders:
