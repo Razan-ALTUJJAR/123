@@ -6,16 +6,10 @@ image:
   caption: 
   focal_point: Smart
 summary: An example of linking directly to an external project website using `external_link`.
-tags:
-- Demo 
+
 title: Surveillance des voies d'un tramway
 subtitle: Un projet encadré par le data scientiste monsieur Guillaume CHEVALEYRE.
 
 ---
 A l’aide des données récoltées d'une expérience de captation de chocs sur les voies d'un tramway d'une grande métropole, on souhait de développer un système automatique de surveillance des voies, qui lui permette de cibler ses tournées d'inspection visuelle sur les zones qui sont les plus à risques. 
 
-```bash
-pipx import 'notebooks/Analyse.ipynb' content/project/external-project -- verbose
-
-![Caption for the picture.](C:\Users\razan\OneDrive\Desktop\Lames\Picture\uO\Med.png)
-```

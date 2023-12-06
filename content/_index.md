@@ -46,6 +46,7 @@ sections:
     text: ""
     title: Skills
     username: admin
+  id: skills
 - block: accomplishments
   content:
     date_format: Jan 2006
@@ -80,6 +81,7 @@ sections:
       icon: sas
       title: "SAS data Manipulation Techniques"
       url: ""
+  id: experianc
   design:
     columns: "2"
 - block: portfolio

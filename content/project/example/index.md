@@ -6,8 +6,6 @@ image:
   focal_point: Smart
 
 summary: Réalisé à l'université de Gustave Eiffel.
-tags:
-- Analyse et science des données
 title: Projet de fin d'étude
 ---
 

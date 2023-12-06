@@ -5,7 +5,7 @@ theme: "theme-academic-cv"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Academic # Website name
-baseURL: 'https://razan-tejjar.netlify.app' # Website URL
+baseURL: 'https://razanaltujjar.netlify.app' # Website URL
 
 ############################
 ## LANGUAGE
